@@ -1,0 +1,7 @@
+Used: Factory to get the sandwich Builder.
+Used: Composite to add a list of items{ingredients} which I needed in the sandwich.
+Used: Builder to build the sandwich I needed.
+Used: Decorator to add the fries and cola if needed. 
+
+NOTE: Please note that instead of making each one of the mushroom and pickle slices their class
+alone unlike the cheese/bread/onion/sauce, I made a general interface for those 2 and they both implement it and it's called "extra condaments".

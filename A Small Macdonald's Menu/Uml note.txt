@@ -1,0 +1,5 @@
+The main in the UML uses the factory to get the builder (based on the data from user aka type of sandwich)
+uses the director to create the burger,
+uses the builder to get the sandwich and uses the meal to display its items. 
+
+The factory gets us the burger builder we want based on the input from the user. 
